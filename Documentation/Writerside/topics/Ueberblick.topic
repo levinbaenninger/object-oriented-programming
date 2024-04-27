@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic id="Ueberblick"
+       title="Überblick"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd">
+
+    <section-starting-page>
+        <title>Objektorientierte Programmierung</title>
+        <description>
+            Dies ist eine Dokumentation über die objektorientierte Programmierung, sie umfässt Themen wie die
+            grundlegenden Konzepte von OOP, aber auch C# und ASP.NET Core MVC.
+        </description>
+
+        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
+        <spotlight>
+            <a href="CSharp.md" type="development">C#</a>
+            <a href="Konzepte-OOP.md" type="mixed">Objektorientierte Programmierung</a>
+        </spotlight>
+
+        <!--    Add several topics that are most important for this section.    -->
+        <primary>
+            <title>UML und ASP.NET Core MVC</title>
+            <a href="UML.md" type="documents">UML</a>
+            <a href="ASP-NET-Core-MVC.md" type="computer">ASP.NET Core MVC</a>
+        </primary>
+
+        <secondary>
+            <title>Weiterführende Themen zu ASP.NET Core MVC</title>
+            <a href="Projekt-konfigurieren.md">Projekt konfigurieren</a>
+            <a href="Views.md">Views</a>
+            <a href="Controller.md">Controllers</a>
+            <a href="Modelle.md">Models</a>
+        </secondary>
+
+        <!--    Optionally add additional cards and links to topics that are not in this section but may be relevant.    -->
+        <misc>
+            <links>
+                <group>
+                    <title>Tutorials - C#</title>
+                    <a href="https://www.programiz.com/csharp-programming" summary="C# Tutorial von Programiz">Programiz
+                        - C# Tutorial</a>
+                    <a href="https://www.w3schools.com/cs/index.php"
+                       summary="C# Tutorial von Programiz">W3Schools
+                        - C# Tutorial</a>
+                    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"
+                       summary="Offizielle C# Dokumentation von Microsoft">Microsoft - C# Dokumentation</a>
+                </group>
+                <group>
+                    <title>UML</title>
+                    <a href="https://www.youtube.com/watch?v=6XrL5jXmTwM"
+                       summary="Klassendiagramme Tutorial von Lucidchart">Lucidchart -
+                        Klassendiagramme</a>
+                    <a href="https://www.youtube.com/watch?v=4emxjxonNRI"
+                       summary="Use-Case-Diagramme Tutorial von Lucidchart">Lucidchart - Use-Case-Diagramm</a>
+                    <a href="https://www.youtube.com/watch?v=pCK6prSq8aw"
+                       summary="Sequenzdiagramme Tutorial von Lucidchart">Lucidchart - Sequenzdiagramm</a>
+                    <a href="https://www.lucidchart.com/pages/uml-class-diagram"
+                       summary="UML Tutorial von Lucidchart">Lucidchart - UML</a>
+                </group>
+                <group>
+                    <title>ASP.NET Core MVC</title>
+                    <a href="https://shorturl.at/dopyz"
+                       summary="Offizielle ASP.NET Core MVC Dokumentation von Microsoft">Microsoft - ASP.NET Core MVC
+                        Dokumentation</a>
+                    <a href="https://learn.microsoft.com/en-us/ef/core/"
+                       summary="Offizielle Entity Framework Core Dokumentation von Microsoft">Microsoft - Entity
+                        Framework Core
+                        Dokumentation</a>
+                    <a href="https://www.youtube.com/watch?v=AopeJjkcRvU"
+                       summary="ASP.NET Core MVC Guide von DotNetMaster">DotNetMaster - ASP.NET Core MVC Guide</a>
+                </group>
+            </links>
+        </misc>
+    </section-starting-page>
+
+</topic>
