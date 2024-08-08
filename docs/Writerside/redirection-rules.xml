@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="1cc7a7f4">
+        <description>Created after removal of "Überblick" from Objektorientierte Programmierung</description>
+        <accepts>Ueberblick.html</accepts>
+    </rule>
+    <rule id="7ede9c13">
+        <description>Created after removal of "Keywords und Identifiers" from Objektorientierte Programmierung
+        </description>
+        <accepts>Keywords-Identifiers.html</accepts>
+    </rule>
+    <rule id="49dc91fa">
+        <description>
+            <![CDATA[Created after removal of "<Relationale-Operatoren.md>" from Objektorientierte Programmierung]]></description>
+        <accepts>Relationale-Operatoren.html</accepts>
+    </rule>
+    <rule id="72fe606">
+        <description>Created after removal of "Ausdrücke und Anweisungen" from Objektorientierte Programmierung
+        </description>
+        <accepts>Ausdrücke-und-Anweisungen.html</accepts>
+    </rule>
+    <rule id="132e0822">
+        <description>Created after removal of "enum" from Objektorientierte Programmierung</description>
+        <accepts>enums.html</accepts>
+    </rule>
+    <rule id="687a45b1">
+        <description>Created after removal of "using" from Objektorientierte Programmierung</description>
+        <accepts>using.html</accepts>
+    </rule>
+    <rule id="46a5a18e">
+        <description>Created after removal of "Namespaces" from Objektorientierte Programmierung</description>
+        <accepts>Namespaces.html</accepts>
+    </rule>
+    <rule id="198706a4">
+        <description>Created after removal of "ASP.NET Core MVC" from Objektorientierte Programmierung</description>
+        <accepts>ASP-NET-Core-MVC.html</accepts>
+    </rule>
+    <rule id="3a44d83a">
+        <description>Created after removal of "Visual Studio" from Objektorientierte Programmierung</description>
+        <accepts>Visual-Studio.html</accepts>
+    </rule>
+    <rule id="7132f7a9">
+        <description>Created after removal of "Einführung" from Objektorientierte Programmierung</description>
+        <accepts>Einfuehrung.html</accepts>
+    </rule>
+    <rule id="61f15b48">
+        <description>Created after removal of "Programmaufbau" from Objektorientierte Programmierung</description>
+        <accepts>Programmaufbau.html</accepts>
+    </rule>
+    <rule id="510db8fa">
+        <description>Created after removal of "Variablen" from Objektorientierte Programmierung</description>
+        <accepts>Variablen.html</accepts>
+    </rule>
+    <rule id="5d7ca2f6">
+        <description>Created after removal of "Konstanten" from Objektorientierte Programmierung</description>
+        <accepts>Konstanten.html</accepts>
+    </rule>
+    <rule id="15d517d">
+        <description>Created after removal of "Primitive Datentypen" from Objektorientierte Programmierung</description>
+        <accepts>Primitive-Datentypen.html</accepts>
+    </rule>
+    <rule id="6f85d6a7">
+        <description>Created after removal of "Operatoren" from Objektorientierte Programmierung</description>
+        <accepts>Operatoren.html</accepts>
+    </rule>
+    <rule id="191324ae">
+        <description>Created after removal of "Arithmetische Operatoren" from Objektorientierte Programmierung
+        </description>
+        <accepts>Arithmetische-Operatoren.html</accepts>
+    </rule>
+    <rule id="603b754d">
+        <description>Created after removal of "Relationale Operatoren" from Objektorientierte Programmierung
+        </description>
+        <accepts>Relationale-Operatoren.html</accepts>
+    </rule>
+    <rule id="277b59c6">
+        <description>Created after removal of "Logische Operatoren" from Objektorientierte Programmierung</description>
+        <accepts>Logische-Operatoren.html</accepts>
+    </rule>
+    <rule id="21fcd424">
+        <description>Created after removal of "Unary Operatoren" from Objektorientierte Programmierung</description>
+        <accepts>Unary-Operatoren.html</accepts>
+    </rule>
+    <rule id="a380f83">
+        <description>Created after removal of "Zuweisungsoperatoren" from Objektorientierte Programmierung</description>
+        <accepts>Zuweisungsoperatoren.html</accepts>
+    </rule>
+    <rule id="1ed9f33b">
+        <description>Created after removal of "Operator-Vorrang" from Objektorientierte Programmierung</description>
+        <accepts>Operator-Vorrang.html</accepts>
+    </rule>
+    <rule id="776e965b">
+        <description>Created after removal of "Input/Output" from Objektorientierte Programmierung</description>
+        <accepts>Input-Output.html</accepts>
+    </rule>
+    <rule id="7b67991d">
+        <description>Created after removal of "Kommentare" from Objektorientierte Programmierung</description>
+        <accepts>Kommentare.html</accepts>
+    </rule>
+    <rule id="13f1e643">
+        <description>Created after removal of "Kontrollstukturen" from Objektorientierte Programmierung</description>
+        <accepts>Kontrollstrukturen.html</accepts>
+    </rule>
+    <rule id="75263c2c">
+        <description>Created after removal of "if...else" from Objektorientierte Programmierung</description>
+        <accepts>if-else.html</accepts>
+    </rule>
+    <rule id="63feb44c">
+        <description>Created after removal of "switch" from Objektorientierte Programmierung</description>
+        <accepts>switch.html</accepts>
+    </rule>
+    <rule id="3248218d">
+        <description>Created after removal of "Ternary Operator" from Objektorientierte Programmierung</description>
+        <accepts>Ternary-Operator.html</accepts>
+    </rule>
+    <rule id="35e61e1c">
+        <description>Created after removal of "for Loop" from Objektorientierte Programmierung</description>
+        <accepts>for-Loop.html</accepts>
+    </rule>
+    <rule id="728b437f">
+        <description>Created after removal of "while Loop" from Objektorientierte Programmierung</description>
+        <accepts>while-Loop.html</accepts>
+    </rule>
+    <rule id="4dcecc8d">
+        <description>Created after removal of "break" from Objektorientierte Programmierung</description>
+        <accepts>break.html</accepts>
+    </rule>
+    <rule id="464256f6">
+        <description>Created after removal of "continue" from Objektorientierte Programmierung</description>
+        <accepts>continue.html</accepts>
+    </rule>
+    <rule id="6c6125c3">
+        <description>Created after removal of "Arrays" from Objektorientierte Programmierung</description>
+        <accepts>Arrays.html</accepts>
+    </rule>
+    <rule id="2a246191">
+        <description>Created after removal of "Multidimensionale Arrays" from Objektorientierte Programmierung
+        </description>
+        <accepts>Multidimensionale-Arrays.html</accepts>
+    </rule>
+    <rule id="56def6c9">
+        <description>Created after removal of "foreach Loop" from Objektorientierte Programmierung</description>
+        <accepts>foreach-Loop.html</accepts>
+    </rule>
+    <rule id="19074f10">
+        <description>Created after removal of "OOP" from Objektorientierte Programmierung</description>
+        <accepts>OOP.html</accepts>
+    </rule>
+    <rule id="e9c7ce0">
+        <description>Created after removal of "Grundlagen" from Objektorientierte Programmierung</description>
+        <accepts>Grundlagen.html</accepts>
+    </rule>
+    <rule id="3d1c723c">
+        <description>Created after removal of "Klassen und Objekte" from Objektorientierte Programmierung</description>
+        <accepts>Klassen-und-Objekte.html</accepts>
+    </rule>
+    <rule id="2fdbed3">
+        <description>Created after removal of "Methoden" from Objektorientierte Programmierung</description>
+        <accepts>Methoden.html</accepts>
+    </rule>
+    <rule id="14681a5d">
+        <description>Created after removal of "Method Overloading" from Objektorientierte Programmierung</description>
+        <accepts>Method-Overloading.html</accepts>
+    </rule>
+    <rule id="29cd00a7">
+        <description>Created after removal of "Constructor" from Objektorientierte Programmierung</description>
+        <accepts>Constructor.html</accepts>
+    </rule>
+    <rule id="47db1172">
+        <description>Created after removal of "Konzepte" from Objektorientierte Programmierung</description>
+        <accepts>Konzepte.html</accepts>
+    </rule>
+    <rule id="1f96c963">
+        <description>Created after removal of "Verkapselung" from Objektorientierte Programmierung</description>
+        <accepts>Properties.html</accepts>
+    </rule>
+    <rule id="2c3c302e">
+        <description>Created after removal of "Zugriffsmodifikatoren" from Objektorientierte Programmierung
+        </description>
+        <accepts>Zugriffsmodifikatoren.html</accepts>
+    </rule>
+    <rule id="1531f44f">
+        <description>Created after removal of "get und set" from Objektorientierte Programmierung</description>
+        <accepts>get-und-set.html</accepts>
+    </rule>
+    <rule id="75b09d26">
+        <description>Created after removal of "Vererbung" from Objektorientierte Programmierung</description>
+        <accepts>Vererbung.html</accepts>
+    </rule>
+    <rule id="37f4af66">
+        <description>Created after removal of "Polymorphismus" from Objektorientierte Programmierung</description>
+        <accepts>Polymorphismus.html</accepts>
+    </rule>
+    <rule id="420b4619">
+        <description>Created after removal of "Abstraktion" from Objektorientierte Programmierung</description>
+        <accepts>Abstrakte-Klassen-und-Methoden.html</accepts>
+    </rule>
+    <rule id="125763ab">
+        <description>Created after removal of "Interface" from Objektorientierte Programmierung</description>
+        <accepts>Interface.html</accepts>
+    </rule>
+    <rule id="73481712">
+        <description>Created after removal of "Verschiedenes" from Objektorientierte Programmierung</description>
+        <accepts>Verschiedenes.html</accepts>
+    </rule>
+    <rule id="11dc9535">
+        <description>Created after removal of "this Keyword" from Objektorientierte Programmierung</description>
+        <accepts>this-Keyword.html</accepts>
+    </rule>
+    <rule id="f12dd9e">
+        <description>Created after removal of "static Keyword" from Objektorientierte Programmierung</description>
+        <accepts>static-Keyword.html</accepts>
+    </rule>
+    <rule id="419172da">
+        <description>Created after removal of "Verschiedenes" from Objektorientierte Programmierung</description>
+        <accepts>Zusätzliches.html</accepts>
+    </rule>
+    <rule id="3af091e1">
+        <description>Created after removal of "Typenkonversion" from Objektorientierte Programmierung</description>
+        <accepts>Typenkonversion.html</accepts>
+    </rule>
+    <rule id="f6f73bd">
+        <description>Created after removal of "Strings" from Objektorientierte Programmierung</description>
+        <accepts>Strings.html</accepts>
+    </rule>
+    <rule id="1c1f14a9">
+        <description>Created after removal of "Scope" from Objektorientierte Programmierung</description>
+        <accepts>Scope.html</accepts>
+    </rule>
+    <rule id="373ce057">
+        <description>Created after removal of "Files" from Objektorientierte Programmierung</description>
+        <accepts>Files.html</accepts>
+    </rule>
+    <rule id="603f054b">
+        <description>Created after removal of "try...catch" from Objektorientierte Programmierung</description>
+        <accepts>try-catch.html</accepts>
+    </rule>
+    <rule id="1d371bdf">
+        <description>Created after removal of "Math" from Objektorientierte Programmierung</description>
+        <accepts>Math.html</accepts>
+    </rule>
+    <rule id="6392a476">
+        <description>Created after removal of "C#" from Objektorientierte Programmierung</description>
+        <accepts>CSharp.html</accepts>
+    </rule>
+    <rule id="62ec665d">
+        <description>Created after removal of "Projekt konfigurieren" from Objektorientierte Programmierung
+        </description>
+        <accepts>Projekt-konfigurieren.html</accepts>
+    </rule>
+    <rule id="4857179e">
+        <description>Created after removal of "Modelle" from Objektorientierte Programmierung</description>
+        <accepts>Modelle.html</accepts>
+    </rule>
+    <rule id="3062b252">
+        <description>Created after removal of "Konfiguration - SQL Server" from Objektorientierte Programmierung
+        </description>
+        <accepts>Konfiguration-SQL-Server.html</accepts>
+    </rule>
+    <rule id="13d2770f">
+        <description>Created after removal of "Controller" from Objektorientierte Programmierung</description>
+        <accepts>Controller.html</accepts>
+    </rule>
+    <rule id="37b7eb46">
+        <description>Created after removal of "Views" from Objektorientierte Programmierung</description>
+        <accepts>Views.html</accepts>
+    </rule>
+    <rule id="71a05fe2">
+        <description>Created after removal of "One-To-Many" from Objektorientierte Programmierung</description>
+        <accepts>One-To-Many.html</accepts>
+    </rule>
+    <rule id="f698bc1">
+        <description>Created after removal of "Many-To-Many" from Objektorientierte Programmierung</description>
+        <accepts>Many-To-Many.html</accepts>
+    </rule>
+    <rule id="7a8a7395">
+        <description>Created after removal of "ASP.NET Core MVC" from Objektorientierte Programmierung</description>
+        <accepts>ASP-NET-Core-MVC.html</accepts>
+    </rule>
+</rules>

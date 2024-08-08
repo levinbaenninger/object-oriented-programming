@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Objektorientierte Programmierung"
+                  start-page="Ueberblick.topic">
+
+    <toc-element topic="Ueberblick.topic"/>
+    <toc-element topic="oop-konzepte.md">
+        <toc-element topic="Abstraktion.md"/>
+        <toc-element topic="Kapselung.md"/>
+        <toc-element topic="Vererbung-Konzept.md"/>
+        <toc-element topic="Polymorphismus-Konzept.md"/>
+    </toc-element>
+    <toc-element topic="UML.md">
+        <toc-element topic="Klassendiagramm.md"/>
+        <toc-element topic="Use-Case-Diagramm.md"/>
+        <toc-element topic="Sequenzdiagramm.md"/>
+    </toc-element>
+</instance-profile>

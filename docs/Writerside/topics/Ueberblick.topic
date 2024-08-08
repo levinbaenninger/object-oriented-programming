@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic id="Ueberblick"
+       title="Überblick"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd">
+
+    <section-starting-page>
+        <title>Objektorientierte Programmierung</title>
+        <description>
+            Dies ist eine Dokumentation über die objektorientierte Programmierung, sie umfasst die Themen objektorientierte Programmierung und UML.
+        </description>
+
+        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
+        <spotlight>
+            <a href="oop-konzepte.md" type="mixed">Konzepte</a>
+            <a href="UML.md" type="branch">UML</a>
+        </spotlight>
+
+        <!--    Add several topics that are most important for this section.    -->
+        <primary>
+            <title>Konzepte der objektorientieren Programmierung</title>
+            <a href="Abstraktion.md">Abstraktion</a>
+            <a href="Kapselung.md">Kapselung</a>
+            <a href="Vererbung-Konzept.md">Vererbung</a>
+            <a href="Polymorphismus-Konzept.md">Polymorphismus</a>
+        </primary>
+
+        <secondary>
+            <title>UML</title>
+            <a href="Klassendiagramm.md">Klassendiagramm</a>
+            <a href="Use-Case-Diagramm.md">Use-Case-Diagramm</a>
+            <a href="Sequenzdiagramm.md">Sequenzdiagramm</a>
+        </secondary>
+
+        <!--    Optionally add additional cards and links to topics that are not in this section but may be relevant.    -->
+        <misc>
+            <links>
+                <group>
+                    <title>UML</title>
+                    <a href="https://www.youtube.com/watch?v=6XrL5jXmTwM"
+                       summary="Klassendiagramme Tutorial von Lucidchart">Lucidchart -
+                        Klassendiagrammd</a>
+                    <a href="https://www.youtube.com/watch?v=4emxjxonNRI"
+                       summary="Use-Case-Diagramme Tutorial von Lucidchart">Lucidchart - Use-Case-Diagramm</a>
+                    <a href="https://www.youtube.com/watch?v=pCK6prSq8aw"
+                       summary="Sequenzdiagramme Tutorial von Lucidchart">Lucidchart - Sequenzdiagramm</a>
+                    <a href="https://www.lucidchart.com/pages/uml-class-diagram"
+                       summary="UML Tutorial von Lucidchart">Lucidchart - UML</a>
+                </group>
+            </links>
+        </misc>
+    </section-starting-page>
+
+</topic>
