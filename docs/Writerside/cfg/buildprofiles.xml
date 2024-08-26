@@ -4,6 +4,9 @@
 
     <variables>
         <primary-color>dracula</primary-color>
+        <algolia-id>FY7LR15VUS</algolia-id>
+        <algolia-index>prod_OOP</algolia-index>
+        <algolia-api-key>b0dc3c57d7be4e150bcd1471567283ab</algolia-api-key>
     </variables>
     <build-profile instance="hi">
         <variables>
